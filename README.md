@@ -14,7 +14,7 @@ This is the repository for mapCHS, an Interactive Map with Layers of Useful Data
     # Install the latest Cordova and Ionic command-line tools
     $ npm install -g cordova ionic
     
-+Note: iOS development requires Mac OS X. iOS simulator through the Ionic CLI requires the ios-sim npm package, which can be installed with the command sudo npm -g install ios-sim.
++ Note: iOS development requires Mac OS X. iOS simulator through the Ionic CLI requires the ios-sim npm package, which can be installed with the command sudo npm -g install ios-sim.
 
 If you want more information on getting started with Ionic development, check out the Ionic [Getting Started](http://ionicframework.com/getting-started/) and [Documentation](http://ionicframework.com/docs/) pages.
 
