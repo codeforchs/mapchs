@@ -1,4 +1,4 @@
-#mapCHS
+mapCHS
 =======================
 
 This is the repository for mapCHS, an Interactive Map with Layers of Useful Datapoints for Charleston, SC 
