@@ -5,17 +5,16 @@ This is the repository for mapCHS, an Interactive Map with Layers of Useful Data
 
 ##Dependencies
 
-###Node.js
-    # Install Node.js with NPM
-    + Navigate to the [Node.js Downloads](https://nodejs.org/download/) page
-    + Download and install the appropriate package for your system.
+###Install Node.js with NPM
++ Navigate to the [Node.js Downloads](https://nodejs.org/download/) page
++ Download and install the appropriate package for your system.
 
 ###Ionic
 
     # Install the latest Cordova and Ionic command-line tools
     $ npm install -g cordova ionic
     
-    Note: iOS development requires Mac OS X. iOS simulator through the Ionic CLI requires the ios-sim npm package, which can be installed with the command sudo npm -g install ios-sim.
++Note: iOS development requires Mac OS X. iOS simulator through the Ionic CLI requires the ios-sim npm package, which can be installed with the command sudo npm -g install ios-sim.
 
 If you want more information on getting started with Ionic development, check out the Ionic [Getting Started](http://ionicframework.com/getting-started/) and [Documentation](http://ionicframework.com/docs/) pages.
 
